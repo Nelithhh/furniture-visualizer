@@ -8,24 +8,25 @@ A web-based furniture visualisation app for store designers to create, view, and
 
 ✅ 1. Recommended Full Stack (Modern + Coursework-Ready)
 
-Layer	Tech Stack
-Frontend	React.js, Tailwind CSS, React Router, Three.js, Konva.js
-Backend	Node.js, Express.js
-Database	MongoDB with Mongoose
-Auth	JWT (JSON Web Tokens) – for designer login
-Tools	GitHub (repo & commits), Figma (UI), Postman (API test), Vercel/Render
+Layer Tech Stack
+Frontend React.js, Tailwind CSS, React Router, Three.js, Konva.js
+Backend Node.js, Express.js
+Database MongoDB with Mongoose
+Auth JWT (JSON Web Tokens) – for designer login
+Tools GitHub (repo & commits), Figma (UI), Postman (API test), Vercel/Render
 ✅ 2. Must-Include Coursework Concepts
 
-Coursework Requirement	Tech / Concept Used
-Designer Login	JWT Auth with MongoDB
-Save/Edit/Delete Designs	REST APIs with MongoDB
-Visualise Room in 2D	Konva.js (Canvas)
-Visualise Room in 3D	Three.js (WebGL 3D view)
-Color/Shade Change	React State + Canvas/3D Material Edits
+Coursework Requirement Tech / Concept Used
+Designer Login JWT Auth with MongoDB
+Save/Edit/Delete Designs REST APIs with MongoDB
+Visualise Room in 2D Konva.js (Canvas)
+Visualise Room in 3D Three.js (WebGL 3D view)
+Color/Shade Change React State + Canvas/3D Material Edits
 
 ## 💻 Technologies Used
 
 ### Frontend:
+
 - React.js
 - Tailwind CSS
 - React Router
@@ -33,12 +34,14 @@ Color/Shade Change	React State + Canvas/3D Material Edits
 - Three.js (3D WebGL Viewer)
 
 ### Backend:
+
 - Node.js
 - Express.js
 - MongoDB (Mongoose)
 - JWT Authentication
 
 ### Other Tools:
+
 - Git + GitHub (Version Control)
 - Figma (Low/High Fidelity Prototyping)
 - Postman (API Testing)
@@ -80,23 +83,11 @@ Color/Shade Change	React State + Canvas/3D Material Edits
 
 ## 📸 Screenshots
 
-- Login Page  
-- Dashboard with Saved Designs  
-- 2D Editor  
-- 3D Viewer  
-- Save / Edit / Delete Features  
-
----
-
-## 🔗 GitHub Link
-
-🔗 [https://github.com/yourgroup/furniture-visualiser](https://github.com/yourgroup/furniture-visualiser)
-
-✅ Make sure it's **public** and contains:
-- `/client` (React)
-- `/server` (Node.js)
-- `README.md` (this file)
-- Commit history (weekly commits by group)
+- Login Page
+- Dashboard with Saved Designs
+- 2D Editor
+- 3D Viewer
+- Save / Edit / Delete Features
 
 ---
 
@@ -112,3 +103,4 @@ npm run dev
 cd client
 npm install
 npm run dev
+```
